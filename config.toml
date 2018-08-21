@@ -6,9 +6,10 @@ theme = "hugo-universal-theme"
 style = "blue"
 
 [params]
+	logo = "img/lschool.png"
+	logo_small = "img/lschool.png"
 	date_format = "1/2/2006"
 
-[params]
 [params.carousel]
 	enable = true
 
