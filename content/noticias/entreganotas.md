@@ -5,7 +5,7 @@ draft: false
 type: "blog"
 ---
 
-# a new blog
+# Primer ciclo y segundo ciclo
 
-In this blog I talk about how hard it is to find a decent human being, ultimately bringin an end to this series
+Mauris fringilla ligula quis felis mattis, quis ornare enim feugiat. Mauris volutpat nisi ornare sapien tristique, vitae tempor purus blandit. Praesent sed sapien sed turpis tincidunt lacinia. Maecenas eleifend turpis eu felis facilisis semper. Sed vehicula enim sem, eu tempus urna sollicitudin sed. Phasellus nibh quam, tristique sollicitudin ipsum quis, iaculis sagittis dolor. Nunc varius quam ut fringilla cursus. Vivamus mollis a dolor et consectetur. Aliquam efficitur ligula nec congue pellentesque. Phasellus purus leo, scelerisque et consectetur euismod, pellentesque sit amet mi. Nulla orci orci, cursus a diam at, lobortis fringilla nisl. Curabitur nec ante sed diam facilisis tristique nec vitae magna. Phasellus tristique nibh tellus, eget volutpat tortor laoreet vel. Vivamus venenatis, augue ac fermentum viverra, elit velit rutrum nibh, vel hendrerit lorem diam sit amet eros.
 
