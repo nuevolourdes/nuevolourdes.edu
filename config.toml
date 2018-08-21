@@ -1,0 +1,41 @@
+baseURL = "http://localhost:1313/"
+languageCode = "es-es"
+defaultContentLanguage = "es"
+title = "Escuela Nuevo Lourdes"
+theme = "hugo-universal-theme"
+style = "blue"
+
+[params]
+	date_format = "1/2/2006"
+
+[params]
+[params.carousel]
+	enable = true
+
+[params.features]
+	enable = true
+
+[params.see_more]
+    enable = true
+    icon = "fa fa-facebook"
+    title = "¿Quiere otra forma de contactarnos?"
+    subtitle = "Conectese con nosotros por medio de nuestra página de facebook"
+    link_url = "https://facebook.com/escuela"
+    link_text = "Ir a facebook"
+
+[menu]
+# navbar menu
+[[menu.main]]
+    name = "Acerca de"
+    url  = "/acercade"
+    weight = 1
+
+[[menu.main]]
+    name = "Noticias"
+    url  = "/noticias"
+    weight = 1
+
+[[menu.main]]
+    name = "Contacto"
+    url  = "#contacto"
+    weight = 1
