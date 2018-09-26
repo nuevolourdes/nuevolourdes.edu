@@ -8,3 +8,10 @@
 .box-simple {
   min-height: 230px;
 }
+
+.navbar {
+  z-index: 100;
+  position: relative;
+  top: 0;
+  background-color: black;
+}
