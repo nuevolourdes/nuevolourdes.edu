@@ -80,3 +80,16 @@ body {
 	text-align: right;
   }
 }
+
+#heading-breadcrumbs {
+  margin-bottom: 0px;
+}
+
+.breadcrumb-header {
+  text-align: right;
+}
+
+.white-content {
+  background-color: white;
+  padding: 30px;
+}
