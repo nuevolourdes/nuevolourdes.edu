@@ -1,0 +1,95 @@
+/* your styles go here */
+
+body {
+  background-color: #023F7E;
+}
+
+.bar.background-blue {
+  background-color: #023F7E;
+}
+
+.box-image-text .image {
+  min-height: 200px;
+  max-height: 200px;
+}
+
+.box-simple {
+  min-height: 300px;
+  border-radius: 10px;
+}
+
+.box-simple > h3 {
+  color: white;
+}
+
+.box-simple > p {
+  color: white;
+}
+
+.box-simple > .icon {
+  color: white;
+  border-color: white;
+}
+
+
+.feature:nth-child(odd) > .box-simple {
+  background-color: #0265CB;
+}
+
+.feature:nth-child(even) > .box-simple {
+  background-color: #3298C9;
+}
+
+.box-simple {
+  padding: 20px;
+}
+
+.navbar {
+  z-index: 100;
+  position: relative;
+  top: 10px;
+  background-color: #3298C9;
+  width: 95%;
+  border-radius: 10px;
+  margin-bottom: 25px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.navbar ul.nav > li > a {
+  color: white;
+  text-decoration: none;
+}
+
+.navbar ul.nav > li > a:hover {
+  color: white;
+  border: none;
+  background-color: #0265CB;
+}
+
+
+.logo {
+  width: 230px;
+  position: absolute;
+  z-index: 110;
+  top: 0;
+}
+
+@media screen and (max-width: 764px) {
+  .dropdown {
+	text-align: right;
+  }
+}
+
+#heading-breadcrumbs {
+  margin-bottom: 0px;
+}
+
+.breadcrumb-header {
+  text-align: right;
+}
+
+.white-content {
+  background-color: white;
+  padding: 30px;
+}
