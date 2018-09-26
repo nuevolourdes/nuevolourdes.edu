@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Escuela Nuevo Lourdes</title>
-    <link>http://localhost:1313/</link>
+    <link>https://nuevolourdes.github.io/sitio/</link>
     <description>Recent content on Escuela Nuevo Lourdes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <lastBuildDate>Sun, 19 Aug 2018 17:53:29 -0600</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://nuevolourdes.github.io/sitio/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Vacaciones</title>
-      <link>http://localhost:1313/noticias/nuevopost/</link>
+      <link>https://nuevolourdes.github.io/sitio/noticias/nuevopost/</link>
       <pubDate>Sun, 19 Aug 2018 17:53:29 -0600</pubDate>
       
-      <guid>http://localhost:1313/noticias/nuevopost/</guid>
+      <guid>https://nuevolourdes.github.io/sitio/noticias/nuevopost/</guid>
       <description>Vacaciones semana santa Sed dolor sapien, rhoncus nec urna vitae, rhoncus congue urna. Duis quis vehicula massa. Ut scelerisque consectetur justo. Nam in libero at dui lacinia scelerisque molestie id eros. Curabitur est felis, viverra in mauris eu, tristique efficitur neque. Vestibulum lorem ex, consectetur consequat justo ac, scelerisque dignissim sapien. In eu lobortis tellus. Nam vehicula tortor at blandit ullamcorper. Suspendisse blandit nisi eu finibus blandit.
 Proin ante leo, pellentesque in quam quis, iaculis consectetur enim.</description>
     </item>
     
     <item>
       <title>Entrega de notas</title>
-      <link>http://localhost:1313/noticias/entreganotas/</link>
+      <link>https://nuevolourdes.github.io/sitio/noticias/entreganotas/</link>
       <pubDate>Sat, 18 Aug 2018 18:23:50 -0600</pubDate>
       
-      <guid>http://localhost:1313/noticias/entreganotas/</guid>
+      <guid>https://nuevolourdes.github.io/sitio/noticias/entreganotas/</guid>
       <description>Primer ciclo y segundo ciclo Mauris fringilla ligula quis felis mattis, quis ornare enim feugiat. Mauris volutpat nisi ornare sapien tristique, vitae tempor purus blandit. Praesent sed sapien sed turpis tincidunt lacinia. Maecenas eleifend turpis eu felis facilisis semper. Sed vehicula enim sem, eu tempus urna sollicitudin sed. Phasellus nibh quam, tristique sollicitudin ipsum quis, iaculis sagittis dolor. Nunc varius quam ut fringilla cursus. Vivamus mollis a dolor et consectetur.</description>
     </item>
     
     <item>
       <title>Intramuros</title>
-      <link>http://localhost:1313/noticias/intramuros/</link>
+      <link>https://nuevolourdes.github.io/sitio/noticias/intramuros/</link>
       <pubDate>Sat, 18 Aug 2018 18:21:50 -0600</pubDate>
       
-      <guid>http://localhost:1313/noticias/intramuros/</guid>
+      <guid>https://nuevolourdes.github.io/sitio/noticias/intramuros/</guid>
       <description>Esta semana en los intramuros Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum eget congue eros. Quisque varius, nisl sit amet dictum volutpat, nunc libero consequat justo, vel condimentum est massa a ex. Maecenas laoreet tellus at nisi sollicitudin, placerat vehicula massa vulputate. Suspendisse potenti. Nam eu pulvinar odio, et lacinia erat. Proin vitae urna sit amet leo volutpat fringilla quis a mi. Quisque quis massa sed velit lacinia congue eu sit amet nulla.</description>
     </item>
     
     <item>
       <title>Acerca de</title>
-      <link>http://localhost:1313/acercade/</link>
+      <link>https://nuevolourdes.github.io/sitio/acercade/</link>
       <pubDate>Sat, 18 Aug 2018 15:51:48 -0600</pubDate>
       
-      <guid>http://localhost:1313/acercade/</guid>
+      <guid>https://nuevolourdes.github.io/sitio/acercade/</guid>
       <description>Somos una institución con valores Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum eget congue eros. Quisque varius, nisl sit amet dictum volutpat, nunc libero consequat justo, vel condimentum est massa a ex. Maecenas laoreet tellus at nisi sollicitudin, placerat vehicula massa vulputate. Suspendisse potenti. Nam eu pulvinar odio, et lacinia erat. Proin vitae urna sit amet leo volutpat fringilla quis a mi. Quisque quis massa sed velit lacinia congue eu sit amet nulla.</description>
     </item>
     
