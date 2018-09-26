@@ -93,3 +93,8 @@ body {
   background-color: white;
   padding: 30px;
 }
+
+
+.hide {
+  display: none;
+}
