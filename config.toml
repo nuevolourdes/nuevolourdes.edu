@@ -38,5 +38,5 @@ style = "blue"
 
 [[menu.main]]
     name = "Contacto"
-    url  = "#contacto"
+    url  = "/#contacto"
     weight = 1
