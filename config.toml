@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://nuevolourdes.github.io/sitio/"
 languageCode = "es-es"
 defaultContentLanguage = "es"
 title = "Escuela Nuevo Lourdes"
