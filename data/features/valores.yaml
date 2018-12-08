@@ -1,4 +1,10 @@
 weight: 3
-name: "Fomentando Valores"
+name: "Valores"
 icon: "fa fa-home"
-description: "Formando jovenes con valores para ser parte de una sociedad actualizada y moderna."
+description: "
+<ul style='color: white; text-align: left;'>
+    <li>Respeto</li>
+    <li>Responsabilidad</li>
+    <li>Sinceridad</li>
+    <li>Solidaridad</li>
+</ul>"

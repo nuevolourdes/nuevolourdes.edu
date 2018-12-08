@@ -4,6 +4,15 @@ body {
   background-color: #023F7E;
 }
 
+.home-carousel {
+  background: url('../img/kids.jpg') center center repeat !important;
+}
+
+.home-carousel .dark-mask {
+  background-color: #3298C9;
+  opacity: 0.8;
+}
+
 .bar.background-blue {
   background-color: #023F7E;
 }
@@ -14,7 +23,7 @@ body {
 }
 
 .box-simple {
-  min-height: 300px;
+  min-height: 340px;
   border-radius: 10px;
 }
 
