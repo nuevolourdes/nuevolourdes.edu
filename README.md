@@ -45,8 +45,8 @@ Luego de eso, se tendrá un folder cuya estructura se verá parecida a lo siguie
 
 Para añadir nuevo contenido o remover contenido viejo, deberemos tener instalado un programa llamado `hugo`, descarga el archivo respectivo para poder correrlo en tu sistema operativo:
 
-* Windows: `hugo_0.49_Windows-32bit.zip`
-* Ubuntu: `hugo_0.49_Linux-32bit.deb``
+* Windows: [Hugo para windows](https://github.com/gohugoio/hugo/releases/download/v0.52/hugo_0.52_Windows-64bit.zip)
+* Ubuntu:  [Hugo para linux](https://github.com/gohugoio/hugo/releases/download/v0.52/hugo_0.52_Linux-64bit.deb)
 
 ### Añadiendo Noticias
 
@@ -82,3 +82,33 @@ Nam vehicula tortor at blandit ullamcorper. Suspendisse blandit nisi eu finibus 
 ```
 
 El texto bajo `title`, sera el titulo de nuestra noticia, `date` la fecha, `draft` indica si este es un borrador, siempre deberá ser `false` para asegurarnos de que nuestras noticias se publiquen siempre, finalmente en la configuración tenemos `type`, el cual en el caso de las noticias deberá estar siempre en `"blog"`.
+
+### Markdown
+
+este es el formato en la que la mayoria de contenido estara escrito, se explicara brevemente que significa cada elemento en este formato, a continuación un ejemplo:
+
+``` markdown
+# Este es un titulo
+## Esto es un subtitulo
+### Esto es un subsubtitulo
+
+===
+
+El bloque de arriba "===" indica una linea separadora en nuestro contenido, también podemos crear listas
+* este es un elemento
+* este es otro elemento
+* este es un tercer elemento
+
+===
+
+Para insertar imagenes podemos hacerlo facilmente usando el siguiente formato:
+!(texto auxiliar)[/url/o/ruta/al/archivo]
+
+Si hacemos esto sin el signo de exclamación, el resultado final será un link a la imagen, es decir, esta nos se mostrara.
+
+===
+
+esto es texto en **negrita** y esto es texto en *cursivo*
+```
+
+Para una lista más comprensiva de `markdown` se recomienda revisar este sitio: https://markdown.es/sintaxis-markdown/
