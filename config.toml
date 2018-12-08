@@ -1,4 +1,4 @@
-baseURL = "https://nuevolourdes.github.io/sitio/"
+baseURL = "https://nuevolourdes.github.io/"
 languageCode = "es-es"
 defaultContentLanguage = "es"
 title = "Escuela Nuevo Lourdes"
@@ -21,7 +21,7 @@ style = "blue"
     icon = "fa fa-facebook"
     title = "¿Quiere otra forma de contactarnos?"
     subtitle = "Conectese con nosotros por medio de nuestra página de facebook"
-    link_url = "https://facebook.com/escuela"
+    link_url = "https://www.facebook.com/mined16/"
     link_text = "Ir a facebook"
 
 [menu]
