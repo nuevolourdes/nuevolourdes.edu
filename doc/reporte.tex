@@ -1,0 +1,85 @@
+%! TEX program = xelatex
+
+\documentclass[11pt]{article}
+\setlength{\parskip}{\baselineskip}
+\usepackage[margin=1in]{geometry}
+\usepackage{fontspec}
+\usepackage{xcolor}
+\usepackage{hyperref}
+\usepackage{listings}
+\usepackage[spanish]{babel}
+\usepackage{courier}
+\usepackage{fancyvrb}
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{mathtools}
+
+\setlength\parindent{0pt}
+\renewcommand{\UrlFont}{\ttfamily\footnotesize}
+\newcommand{\dvector}[1]{\underline{\underline{#1}}}
+
+\setromanfont{Liberation Serif}
+\setmonofont{Menlo}
+\everymath{\displaystyle}
+
+\definecolor{codecolor}{RGB}{248,248,248}
+
+\hypersetup{
+  colorlinks=true,
+  linkcolor=black,
+  urlcolor=blue,
+}
+
+\lstdefinestyle{code}{%
+  backgroundcolor=\color{codecolor},
+  basicstyle=\ttfamily\footnotesize,
+  commentstyle=\color{gray},
+  showstringspaces=false,
+  framexleftmargin=10pt,
+  tabsize=4,
+  framexrightmargin=10pt,
+  xleftmargin=10pt,
+  xrightmargin=10pt,
+  keywordstyle=\ttfamily\color{blue},
+  breaklines=true
+}
+
+\lstnewenvironment{codeblock}[1]{
+\lstset{language=#1,style=code}}{}
+
+
+\begin{document}
+\begin{titlepage}
+\begin{center}
+\huge{UNIVERSIDAD CENTROAMERICANA JOSÉ SIMEON CAÑAS}
+\end{center}
+
+\begin{figure}[htbp]
+  \centering
+  \includegraphics[width=5cm]{../static/img/logo_uca.png}
+\end{figure}
+
+\begin{center}
+  \huge{Manual de Usuario}\\
+  \vspace{1.2cm}
+  \Large{Carlos Fernando Vásquez Morataya\\00060414}\\
+  \Large{Regina Beatriz Viscarra Cortes\\00060514}\\
+  \vspace{1.2cm}
+  \huge{\textbf{Edición y Administración para Sitio de Centro Escolar Nuevo Lourdes}}\\
+  \normalsize{\today}
+\end{center}
+\end{titlepage}
+\tableofcontents
+
+\pagenumbering{arabic}
+\newpage
+\input{instr.tex}
+
+
+\end{document}
+
+%%% Local Variables:
+%%% mode: latex
+%%% TeX-master: t
+%%% ispell-local-dictionary: "es_ES"
+%%% End:
